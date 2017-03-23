@@ -1,9 +1,9 @@
 # -*- mode: mandoku-view; -*-
 #+TITLE: 五經文字
-#+DATE: 2017-03-23 10:53:15.373383
+#+DATE: 2017-03-23 10:53:15.420639
 #+PROPERTY: ID KR1j0024
 #+PROPERTY: BASEEDITION WYG
-#+PROPERTY: WITNESS WYG    
+#+PROPERTY: WITNESS master    
 #+PROPERTY: JUAN 0
 <pb:KR1j0024_WYG_000-1a>¶
 　　欽定四庫全書　　　　經部十¶
@@ -37,7 +37,7 @@
 家塾然曰璐雖稱摹宋拓本今以石刻校之¶
 <pb:KR1j0024_WYG_000-2b>¶
 有字畫尚存而其本改易者又下卷幸部脱¶
-去睪字註十九字&KR0614;字併註凡八字今悉依¶
+去睪字註十九字盩字併註凡八字今悉依¶
 石刻補正俾不失其真焉乾隆四十六年九¶
 月恭校上¶
 ¶
